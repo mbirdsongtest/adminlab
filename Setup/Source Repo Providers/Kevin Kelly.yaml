@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:RPD-Z4v0QoykvCrs19bt9w
+url: https://github.com/jumpyhook/adminlab.git
+urlType: REPO
+username: git
